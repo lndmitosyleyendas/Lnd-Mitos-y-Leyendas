@@ -17,6 +17,9 @@ body{
     justify-content: center;
     height: 100%;
 }
+h1{
+    font-family: 'Kodchasan', sans-serif;
+}
 .card-wrapper{
     height: 400px;
     width: 300px;
