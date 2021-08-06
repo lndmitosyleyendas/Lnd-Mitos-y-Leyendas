@@ -1,6 +1,21 @@
 body{
     margin: 0;
     padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#fondo1{
+    background-image: url(../img/fondo1.png);
+}
+#fondo2{
+    background-image: url(../img/fondo2.png);
+    background-repeat: no-repeat;
+}
+.logocolores{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
 }
 .card-wrapper{
     height: 400px;
